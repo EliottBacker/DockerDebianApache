@@ -1,5 +1,5 @@
 
-# DockerDebianApache
+# Docker Debian & Apache
 This image allows to get Apache running on Docker.
 
 # Usage
